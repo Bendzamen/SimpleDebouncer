@@ -1,6 +1,6 @@
 Simple Debouncer
 
-Solid Arduino digital signal debouncer library that works as it should
+Solid Arduino digital signal debouncer library that works as it should 
 Based on an algorithm from https://www.kennethkuhn.com/electronics/debounce.c
 
 
